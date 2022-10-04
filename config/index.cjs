@@ -15,7 +15,7 @@ const USER_CONFIG = {
   templateID:'olkdR52cENilxZqNNAxCjeRASNTs',
 
   PROVINCE: '四川',
-  CITY: '成都',
+  CITY: '成都'，
 
   USERS: [
     {
